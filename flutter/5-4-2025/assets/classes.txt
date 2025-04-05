@@ -1,0 +1,2 @@
+bluetooth_lamp
+bluetooth_speaker
